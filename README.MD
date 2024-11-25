@@ -16,6 +16,9 @@
 <img src="captures/8.PNG">
 <h5>aire une configuration dynamique des routes de la gateway<h5>
 <img src="captures/9.PNG">
+<h5>config-service<h5>
+<img src="captures/new.PNG">
+<img src="captures/new2.PNG">
 
 
 

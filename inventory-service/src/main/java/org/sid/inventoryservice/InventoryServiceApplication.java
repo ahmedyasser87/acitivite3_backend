@@ -13,6 +13,7 @@ import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import java.util.List;
 
 @SpringBootApplication
+
 public class InventoryServiceApplication {
 
     public static void main(String[] args) {
